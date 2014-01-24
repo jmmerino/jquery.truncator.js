@@ -1,7 +1,7 @@
 {
   "name": "jquery.truncator",
   "main": "jquery.truncator.js",
-  "version": "1.2.6",
+  "version": "0.1.0",
   "homepage": "https://github.com/jmmerino/jquery.truncator.js",
   "authors": [
     "Henrik Nyh <henrik@nyh.se>"
